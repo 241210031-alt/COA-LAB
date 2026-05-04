@@ -1,6 +1,6 @@
 Experiment 1
-Aim
 
+Aim
 To design and verify Half Adder, Full Adder and 4-bit Adder using Logisim.
 
 Theory
@@ -17,6 +17,7 @@ Result
 The Half Adder, Full Adder and 4-bit Adder were designed and verified successfully.
 
 Experiment 2
+
 Aim
 To design and verify 8×1 Multiplexer and 8×3 Encoder using Logisim.
 
@@ -33,6 +34,7 @@ Result
 The 8×1 Multiplexer and 8×3 Encoder were successfully designed and verified.
 
 Experiment 3
+
 Aim
 To design a 4-bit Ripple Carry Adder and study propagation delay.
 
@@ -50,6 +52,7 @@ Result
 The ripple carry adder was designed and propagation delay was observed.
 
 Experiment 4
+
 Aim
 To study the GNU Debugger (GDB) and analyze program flow.
 
@@ -71,6 +74,7 @@ Result
 Program flow was successfully analyzed using GDB.
 
 Experiment 5
+
 Aim
 To study different addressing modes using GDB.
 
@@ -92,6 +96,7 @@ Result
 Different addressing modes were studied successfully.
 
 Experiment 6
+
 Aim
 To design and implement a 4-bit Common Bus System using multiplexers and registers.
 
